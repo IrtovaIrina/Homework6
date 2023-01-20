@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-      //задание1
+       //задание1
       for ( int i = 1; i < 11;i++)
           System.out.println(i);
       //задание2
